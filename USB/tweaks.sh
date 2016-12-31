@@ -69,7 +69,6 @@ cp /mnt/sd*/config/usbaudioAppDict_en_AU.js /jci/gui/resources/js/usbaudio/
 cp /mnt/sd*/config/usbaudioAppDict_en_UK.js /jci/gui/resources/js/usbaudio/
 cp /mnt/sd*/config/usbaudioAppDict_en_US.js /jci/gui/resources/js/usbaudio/
 
-
 #kill gracenote usb message
 cp /jci/gui/apps/usbaudio/js/usbaudioApp.js /mnt/sd*/backup/
 cp /mnt/sd*/config/usbaudioApp.js /jci/gui/apps/usbaudio/js/
